@@ -1,0 +1,21 @@
+[debug] [2023-04-10T00:02:52.655Z] ----------------------------------------------------------------------
+[debug] [2023-04-10T00:02:52.659Z] Command:       /usr/bin/node /usr/local/bin/firebase init
+[debug] [2023-04-10T00:02:52.660Z] CLI Version:   11.25.3
+[debug] [2023-04-10T00:02:52.660Z] Platform:      linux
+[debug] [2023-04-10T00:02:52.660Z] Node Version:  v18.13.0
+[debug] [2023-04-10T00:02:52.661Z] Time:          Mon Apr 10 2023 01:02:52 GMT+0100 (heure d’été britannique)
+[debug] [2023-04-10T00:02:52.661Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-10T00:02:52.671Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-10T00:02:52.672Z] > authorizing via signed-in user (yalogilchrist52@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/gilchrist/Documents/JILM/e_commerce/ags
+
